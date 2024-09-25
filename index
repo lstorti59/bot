@@ -7,10 +7,9 @@
 </head>
 <body>
     <h1>Chatbot Umanoide</h1>
-    <iframe src="https://convai.com/shared-character/?id=597df1fe-782e-11ef-b6ae-42010a7be011" 
-            width="800" 
-            height="600" 
-            style="border:none;">
-    </iframe>
+    <p>Clicca sul link qui sotto per visualizzare il chatbot interattivo:</p>
+    <a href="https://convai.com/shared-character/?id=597df1fe-782e-11ef-b6ae-42010a7be011" target="_blank">
+        Vai al chatbot
+    </a>
 </body>
 </html>
